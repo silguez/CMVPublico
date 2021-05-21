@@ -1,0 +1,19 @@
+* {
+    /* estilo por defecto para todos los elementos de la pagina*/
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div.centrado{
+
+    text-align:center;
+}
+
+img{   
+    width: 30%;
+    padding: 5px;
+    margin: 5px;
+    padding-top: 5%;
+    object-fit: contain;
+    display: inline-block;
+}
