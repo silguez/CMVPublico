@@ -1,0 +1,158 @@
+.background-gris {
+  background-color: #b8b7b7;
+}
+.centrar {
+  text-align: center;
+  margin: 0 auto;
+  padding: 2%;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: 'Manrope', sans-serif;
+}
+.marco {
+  display: grid;
+  grid-template-columns: 250px repeat(3, 1fr);
+  grid-template-rows: 150px 40px auto 40px;
+  grid-gap: 10px;
+  width: 100vw;
+  height: 100vh;
+  margin: 2%;
+}
+.marco .encabezado {
+  grid-column: 1 / span 4;
+  grid-row: 1 / span 1;
+}
+.marco .encabezado .migas {
+  width: 100%;
+}
+/*estilos de menu*/
+body div div menu a {
+  padding: 10px;
+  background-color: #b8b7b7;
+  border-bottom: 1px solid #eeeeee;
+  text-align: center;
+}
+body div div menu a:link,
+body div div menu a:visited {
+  color: white;
+  text-decoration: none;
+}
+body div div menu a:hover {
+  background-color: #4082c4;
+  color: #ffffff;
+}
+#logotipo {
+  top: 10%;
+  width: 15%;
+}
+/*transicion de botones*/
+button {
+  transition-duration: 0.4s;
+  overflow: hidden;
+  cursor: pointer;
+}
+button:after {
+  opacity: 0;
+  transition: all 0.8s;
+}
+button:active:after {
+  opacity: 3;
+  transition: 0s;
+}
+/*boton modo nocturno*/
+#modos {
+  position: relative;
+  top: 0%;
+  text-align: right;
+}
+.nocturno {
+  background-color: #100452;
+  color: #dce4f3;
+  border-radius: 10px;
+  padding: 0.7%;
+  text-decoration: none;
+  border: none;
+}
+.diurno {
+  background-color: #6fb7f3;
+  color: #faf604;
+  border-radius: 10px;
+  padding: 0.7%;
+  text-decoration: none;
+  border: none;
+}
+.lado {
+  background-color: #b8b7b7;
+  grid-column: 1 / span 1;
+  grid-row: 3 / span 1;
+}
+.lado .parrafo {
+  color: white;
+  margin: 10%;
+  margin-top: 20%;
+}
+.lado .parrafo hr {
+  margin: 30%;
+}
+.contenido {
+  grid-column: 2 / span 3;
+  grid-row: 3 / span 1;
+  font-size: 2vw;
+}
+.pie {
+  grid-column: 1 / span 4;
+  grid-row: 4 / span 1;
+}
+.centrado {
+  text-align: center;
+}
+/*estilo galeria*/
+figure:hover {
+  transform: scale(1.1);
+}
+figure {
+  width: 60%;
+  display: block;
+  margin: auto;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  transition: transform 0.2s;
+}
+figure .figura {
+  width: 100%;
+  padding: 1%;
+  padding-top: 5%;
+  object-fit: cover;
+}
+h1 {
+  text-align: center;
+  margin: 0 auto;
+  padding: 2%;
+  text-transform: uppercase;
+}
+h3 {
+  text-align: center;
+  margin: 0 auto;
+  padding: 2%;
+  color: darkgrey;
+}
+figcaption {
+  position: absolute;
+  width: 100%;
+  height: 22%;
+  padding: 2%;
+  margin: 0%;
+  bottom: 0px;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+/*footer*/
+footer {
+  text-align: center;
+  margin: 0 auto;
+  padding: 2%;
+  background-color: #302f2f;
+  color: white;
+}
