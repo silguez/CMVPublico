@@ -21,13 +21,14 @@
 	<!-- scripts externos de librerias que usaremos, por ejemplo Bootstrap o JQuery -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
+	<!-- scripts externos de desarrollo propio en Javascript o JQuery <script src="00-modelo.js"></script>-->
 
 	<!-- scripts personalizados Javascript o JQuery -->
 	<script type="text/javascript" src="versionesjs/jquery.js"></script>
 </head>
 
 
-<body>
+<body onload="cargar()">
 
 	<div class="marco">
 		<div class="encabezado">
@@ -118,7 +119,27 @@
 		</div>
 	</div>
 
+	<script>
+	// function cargar(){
+	// 	function myFunction() {
+	// 	var x = document.baseURI;
+	// 	console.log(x);
+	// 	}
+		
+	// 	function myFunction2() {
+	// 		var x = "Available Height: " + screen.availHeight + "px";
+	// 		console.log(x);
+	// 	}
+	// }
 
+	// datos de pantalla.
+		$(window).height();
+		$(window).width();
+
+		// datos de ventana.
+		$(document).height();
+		$(document).width();
+	</script>
 </body>
 
 </html>

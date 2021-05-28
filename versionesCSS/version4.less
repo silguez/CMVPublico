@@ -1,3 +1,6 @@
+.background-contenido{
+    background-color: aliceblue;
+}
 .background-gris{
     background-color: rgb(184, 183, 183);
 }
@@ -10,9 +13,9 @@
 
 *{
     box-sizing: border-box;
+    padding: 0;
     margin: 0;
-    font-family: 'Manrope', sans-serif;
-    
+    font-family: 'Quicksand', sans-serif;
   }
   
   .marco {
@@ -27,7 +30,8 @@
             grid-column: 1 / span 4;
             grid-row: 1 / span 1; 
                 .migas {
-                    width: 100%;
+                    grid-column: 1 / span 4;
+                    grid-row: 2 / span 1;
    
                 }
             }
@@ -58,49 +62,7 @@
           }
       }
   }
-    
-  #logotipo{
-      top: 10%;
-      width: 15%;
-  }
-  /*transicion de botones*/
-button {
-    transition-duration: 0.4s;
-    overflow: hidden;
-    cursor: pointer;
-  }
-
-button:after {
-    opacity: 0;
-    transition: all 0.8s
-  }
-  
-button:active:after {
-    opacity: 3;
-    transition: 0s
-  }
-/*boton modo nocturno*/
-#modos{
-    position: relative;
-    top: 0%;
-    text-align: right;
-}
-.nocturno{
-    background-color: rgb(16, 4, 82);
-    color: rgb(220, 228, 243);
-    border-radius: 10px;
-    padding: 0.7%;
-    text-decoration: none;
-    border: none;
-}
-.diurno{
-    background-color: rgb(111, 183, 243);
-    color: rgb(250, 246, 4);
-    border-radius: 10px;
-    padding: 0.7%;
-    text-decoration: none;
-    border: none;
-}
+                   
  
   
   .lado {
@@ -109,15 +71,12 @@ button:active:after {
         grid-row: 3 / span 1;
             .parrafo{
                 color:white;
-                margin: 10%;
-                margin-top: 20%;
-                hr{
-                    margin: 30%;
-                }
+                margin: 5%;
             }
         }
   
   .contenido {
+    .background-contenido();
     grid-column: 2 / span 3;
     grid-row: 3 / span 1;
   
@@ -135,31 +94,25 @@ button:active:after {
   }
   
   
-    /*estilo galeria*/
-
-figure:hover{
-    transform: scale(1.1);
-}
   
   figure{
-      width: 60%;
+      width: 40%;
       display: block;
       margin: auto;
       position:relative;
       top: 0px;
       left: 0px;
-      transition: transform .2s;
-        .figura{
+        img{
         width:100%;
         padding: 1%;
         padding-top: 5%;
         object-fit: cover;
+        transition: transform .2s;
     }
   }
   
   h1{
         .centrar();
-        text-transform: uppercase;
         }
   
     h3{
