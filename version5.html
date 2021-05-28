@@ -27,7 +27,7 @@
 </head>
 
 
-<body>
+<body onload="cargar()">
 
 	<div class="marco">
 		<div class="encabezado">
@@ -54,6 +54,8 @@
 		</div>
 		<div class="lado">
 			<div class="parrafo">
+				<p>*En esta pantalla además del ejercicio de GRID con LESS se puede observar las dimensiones de ventana y pantalla en la consola.</p>
+				<br/>
 				<h4>Mar</h4><br>
 				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
 					Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
@@ -118,7 +120,24 @@
 		</div>
 	</div>
 
+<script>
 
+	// datos de dimension de ventana.
+	anchoV = window.screen.width
+	altoV = window.screen.height
+
+	// datos de dimension de pantalla.
+	altoP = screen.availHeight
+	anchoP = screen.availWidth
+
+	function cargar(){
+		console.log(anchoV + "px de ancho de ventana");
+		console.log(altoV + "px de alto de ventana");
+		console.log(anchoP + "px de ancho de pantalla");
+		console.log(altoP + "px de alto de pantalla");    
+	}
+
+</script>
 </body>
 
 </html>
