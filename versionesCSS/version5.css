@@ -28,21 +28,27 @@
   width: 100%;
 }
 /*estilos de menu*/
-body div div menu a {
+a {
   padding: 10px;
-  background-color: #b8b7b7;
+  background-color: rgb(184, 183, 183);
   border-bottom: 1px solid #eeeeee;
-  text-align: center;
+  text-align:center;
 }
-body div div menu a:link,
-body div div menu a:visited {
+
+a:link, a:visited {
   color: white;
   text-decoration: none;
 }
-body div div menu a:hover {
+
+a:hover {
   background-color: #4082c4;
   color: #ffffff;
 }
+
+menu{
+  margin-top: 4%;
+}
+
 #logotipo {
   top: 10%;
   width: 15%;
@@ -62,7 +68,7 @@ button:active:after {
   transition: 0s;
 }
 /*boton modo nocturno*/
-#modos {
+#modos{
   position: relative;
   top: 0%;
   text-align: right;
