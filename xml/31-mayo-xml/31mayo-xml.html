@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<!--
+HTML
+web o pagina:
+entorno: curso Accenture-CMV
+autor: Silvia
+fecha: Mayo 2021
+-->
+
+<head>
+	<meta charset="UTF-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+	<!-- polyfill para soportar CSS3 Media Queries en MS explorer viejos -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	  
+	<!-- importante SEO para la etiqueta del navegador -->
+	<title>EJERCICIO XML</title>
+	
+	<!-- una fuente de Google -->
+	<link rel="preconnect" href="https://fonts.gstatic.com"/>
+	<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap" rel="stylesheet"/>
+	
+	<!-- una hoja de estilos externa-->
+	
+	<!-- una hoja de estilos personalizada-->
+	<link href="31mayo-xml.css" rel="stylesheet"/>
+	
+	<!-- scripts externos de librerias que usaremos, por ejemplo Bootstrap o JQuery -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	
+	<!-- scripts externos de desarrollo propio en Javascript o JQuery -->
+	<script src="31mayo-xml.js"></script>
+	<script src="xml.xml"></script>
+
+</head>
+
+
+<body>
+
+	<!-- cabecera de pagina -->
+	<header>
+		<h1>EJERCICIO XML</h1>
+		<h2> </h2>
+		<br/>
+	</header>
+
+	<main>
+
+	<button onclick="leerXML()">Leer XML</button>
+	<button onclick="mayor()">Orden ascendente</button>
+	<button onclick="menor()">Orden descendente</button>
+
+	<p id="contenidoXML"></p>
+
+	</main>
+
+	<!-- pie de pagina -->
+	<footer>
+		<br/><br/><br/>
+		<div>&copy; 2021 <a href="https://silguez.github.io/CMVPublico/" target="_blank">Silvia Rodríguez Rodríguez</a></div>
+	</footer>
+
+	
+</body>
+</html>
