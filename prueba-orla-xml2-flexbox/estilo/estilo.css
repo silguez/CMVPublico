@@ -1,0 +1,23 @@
+* {
+    font-family: 'Nunito', sans-serif;
+}
+
+h1{
+    text-align:center;
+    margin: 0 auto;
+    padding: 2%;
+}
+
+#fotos{
+    text-align: center;
+}
+
+.eachPh{
+    width: 20%;
+    align-items: baseline;
+    margin: 1%;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+
