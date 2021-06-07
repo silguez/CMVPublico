@@ -1,120 +1,140 @@
 <?xml version="1.0" encoding="utf-8"?>
 <orla>
     <elemento>
+        <id>0</id>
         <nombre>Flor roja</nombre>
         <foto>natural-fotos/flor.jpg</foto>
         <pie>Enfocando lo que solemos ignorar</pie>
         <detalle></detalle>
     </elemento>
     <elemento>
+        <id>1</id>
         <nombre>Bicho</nombre>
         <foto>natural-fotos/bicho.jpg</foto>
         <pie>Fijandonos en los detalles</pie>
         <detalle></detalle>
     </elemento>
     <elemento>
+        <id>2</id>
         <nombre>Flor con bicho</nombre>
         <foto>natural-fotos/florBicho.JPG</foto>
         <pie>Explorando lo natural</pie>
         <detalle></detalle>
     </elemento>
-        <elemento>
+    <elemento>
+        <id>3</id>
         <nombre>Bicho Verde</nombre>
         <foto>natural-fotos/bichoVerde.jpg</foto>
         <pie>Hoy no se camufla</pie>
         <detalle></detalle>
     </elemento>
-        <elemento>
+    <elemento>  
+        <id>4</id>
         <nombre>Dos flores</nombre>
         <foto>natural-fotos/dosFlores.jpg</foto>
         <pie>Composiciones de la naturaleza</pie>
         <detalle></detalle>
     </elemento>
-        <elemento>
+    <elemento>
+        <id>5</id>
         <nombre>Bosque</nombre>
         <foto>natural-fotos/bosque.JPG</foto>
         <pie>Entre nubes</pie>
         <detalle></detalle>
     </elemento>
-        <elemento>
+    <elemento> 
+        <id>6</id>
         <nombre>Flor morada</nombre>
         <foto>natural-fotos/florMorada.jpg</foto>
         <pie>Todos los colores los podriamos encontrar</pie>
         <detalle></detalle>
     </elemento>
-        <elemento>
+    <elemento>
+        <id>7</id>
         <nombre>Hoja verde</nombre>
         <foto>natural-fotos/hojaVerde.jpg</foto>
         <pie>el verde más puro</pie>
         <detalle></detalle>
     </elemento>
-        <elemento>
+    <elemento>
+        <id>8</id>
         <nombre>Rocio</nombre>
         <foto>natural-fotos/rocio.jpg</foto>
         <pie></pie>
         <detalle></detalle>
     </elemento>
-        <elemento>
+    <elemento>
+        <id>9</id>
         <nombre>Telarana</nombre>
         <foto>natural-fotos/telarana.jpg</foto>
         <pie>e6uyhr</pie>
         <detalle></detalle>
     </elemento>
-        <elemento>
+    <elemento>
+        <id>10</id>
         <nombre>Flores azules</nombre>
         <foto>natural-fotos/floresAzules.JPG</foto>
         <pie>drthrth</pie>
         <detalle></detalle>
     </elemento>
-        <elemento>
+    <elemento>
+        <id>11</id>
         <nombre>Musgo sobre árbol</nombre>
         <foto>natural-fotos/musgo.JPG</foto>
         <pie>htdrth</pie>
         <detalle></detalle>
     </elemento>
-        <elemento>
+    <elemento>
+        <id>12</id>
         <nombre>Mar</nombre>
         <foto>natural-fotos/mar.jpg</foto>
         <pie>drthdg</pie>
         <detalle></detalle>
     </elemento>
-        <elemento>
+    <elemento>
+        <id>13</id>
         <nombre>Rio Tinto</nombre>
         <foto>natural-fotos/rioTinto.jpg</foto>
         <pie>drthth</pie>
         <detalle></detalle>
     </elemento>
-        <elemento>
+    <elemento>
+        <id>14</id>
         <nombre>Muelle</nombre>
         <foto>natural-fotos/muelle.JPG</foto>
         <pie>drthbgd</pie>
         <detalle></detalle>
     </elemento>
-        <elemento>
+    <elemento>
+        <id>15</id>
         <nombre>Playa</nombre>
         <foto>natural-fotos/playa.JPG</foto>
         <pie>ethset</pie>
         <detalle></detalle>
     </elemento>
-        <elemento>
+    <elemento>
+        <id>16</id>
         <nombre>Playa con gente</nombre>
         <foto>natural-fotos/playaGente.JPG</foto>
         <pie>sethtes</pie>
         <detalle></detalle>
     </elemento>
-        <elemento>
+    <elemento>
+        <id>17</id>
         <nombre>Gaviota volando</nombre>
         <foto>natural-fotos/gaviota.jpg</foto>
         <pie>sethte</pie>
         <detalle></detalle>
     </elemento>
-        <elemento>
+    <elemento>
+        <id>18</id>
         <nombre>Cielo nublado</nombre>
         <foto>natural-fotos/cielo-niebla.JPG</foto>
         <pie>thtxedh</pie>
         <detalle></detalle>
     </elemento>
-        <elemento>
+    <elemento>
+        <id>19</id>
         <nombre>Niebla</nombre>
         <foto>natural-fotos/niebla.jpg</foto>
         <pie>xthxth</pie>

@@ -2,13 +2,7 @@
     font-family: 'Nunito', sans-serif;
 }
 
-h1{
-    text-align:center;
-    margin: 0 auto;
-    padding: 2%;
-}
-
-#fotos{
+.container{
     text-align: center;
 }
 
