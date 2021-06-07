@@ -1,0 +1,25 @@
+video{
+    width: 30%;
+}
+/* para dar estilos a los subtitulos */
+video::cue {
+    background-image:  dimgray;
+    color: papayawhip;
+}
+
+video::cue(b) {
+    color: peachpuff;
+}
+
+#videoAudio, h1{
+    text-align:center;
+    margin: 0 auto;
+    padding: 2%;
+}
+
+#myCanvas{
+    width:"300"; 
+    height:"100"; 
+    style:"border:1px multicolor";
+    color:aqua;
+}
