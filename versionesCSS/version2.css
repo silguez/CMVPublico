@@ -21,6 +21,7 @@ a {
     background-color: rgb(184, 183, 183);
     border-bottom: 1px solid #eeeeee;
     text-align:center;
+    display:inline-block;
   }
 
   a:link, a:visited {
