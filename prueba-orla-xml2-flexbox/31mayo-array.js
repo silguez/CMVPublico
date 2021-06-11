@@ -23,24 +23,19 @@ function miFuncion(xml) {
   var y = xmlDoc.getElementsByTagName("elemento");
 
 
-  contenedor += "<div class='container'><div class='card-columns' id='galeria'>";
+  contenedor += "<div class='container'>";
   for (i = 0; i < y.length; i++) {
     // leo las etiquetas que me interesan del objeto
     id = y[i].getElementsByTagName("id")[0].childNodes[0].nodeValue;
     nombre = y[i].getElementsByTagName("nombre")[0].childNodes[0].nodeValue;
     foto = y[i].getElementsByTagName("foto")[0].childNodes[0].nodeValue;
     //actualizo contenido
-    contenedor += `
-    <div class='card'>
-      <a href='#' data-toggle='modal' data-target='#id${id}'>
-        <img class='card-img' src= '${foto}' +  alt='${nombre}'/>
-      </a>
-    `
+    contenedor += `<img class='eachPh' src= '${foto}' +  alt='${nombre}'/>`
     // actualizo el array
     elemento = [foto, nombre];
     registrados.push(elemento);
   }
-  contenedor += "</div></div>"
+  contenedor += "</div>"
   document.getElementById("mensaje").innerHTML = contenedor;
 
   // muestro en consola el array
@@ -52,29 +47,4 @@ function miFuncion(xml) {
 
   var galeria = document.getElementById('galeria');
 
-  for (imagen of id) {
-    galeria.innerHTML += `
-  <div class="modal fade" id="#id${id}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
-  aria-hidden="true">
-
-    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-      <span aria-hidden="true">&times;</span>
-    </button>
-
-  <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
-    <img src="${foto}" class="img-fluid rounded">
-  </div>
-
-  <div class="modal-content">
-    <div class="modal-header">
-      <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
-    </div>
-  </div>
-</div>
-</div>
-  `
-  }
-
 }
-
-

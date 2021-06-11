@@ -2,16 +2,15 @@
     font-family: 'Nunito', sans-serif;
 }
 
-.container{
+ .container{
     text-align: center;
 }
-
-.eachPh{
+ .eachPh{
     width: 20%;
     align-items: baseline;
     margin: 1%;
     justify-content: space-between;
     flex-direction: row;
-}
+} 
 
 
