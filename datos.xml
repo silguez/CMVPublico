@@ -10,77 +10,77 @@
     <elemento>
         <id>1</id>
         <nombre>Bicho</nombre>
-        <foto>./assets/natural-fotos/bicho.jpg</foto>
+        <foto>natural-fotos/bicho.jpg</foto>
         <pie>Fijandonos en los descripcions</pie>
         <descripcion>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque perferendis, dolores quidem fugit quas rerum.</descripcion>
     </elemento>
     <elemento>
         <id>2</id>
         <nombre>Flor con bicho</nombre>
-        <foto>./assets/natural-fotos/florBicho.JPG</foto>
+        <foto>natural-fotos/florBicho.JPG</foto>
         <pie>Explorando lo natural</pie>
         <descripcion>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quas nesciunt praesentium officiis tempore, pariatur perferendis. Cupiditate nisi asperiores nemo dolores magnam commodi hic facere magni.</descripcion>
     </elemento>
     <elemento>
         <id>3</id>
         <nombre>Bicho Verde</nombre>
-        <foto>./assets/natural-fotos/bichoVerde.jpg</foto>
+        <foto>natural-fotos/bichoVerde.jpg</foto>
         <pie>Hoy no se camufla</pie>
         <descripcion>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi autem, dignissimos hic quasi numquam placeat animi?</descripcion>
     </elemento>
     <elemento>  
         <id>4</id>
         <nombre>Dos flores</nombre>
-        <foto>./assets/natural-fotos/dosFlores.jpg</foto>
+        <foto>natural-fotos/dosFlores.jpg</foto>
         <pie>Composiciones de la naturaleza</pie>
         <descripcion>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nihil eos aut blanditiis non. Cumque ex vitae distinctio eveniet voluptatem.</descripcion>
     </elemento>
     <elemento>
         <id>5</id>
         <nombre>Bosque</nombre>
-        <foto>./assets/natural-fotos/bosque.JPG</foto>
+        <foto>natural-fotos/bosque.JPG</foto>
         <pie>Entre nubes</pie>
         <descripcion>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis corporis vero reprehenderit sunt adipisci, porro praesentium modi et fugiat at dignissimos!</descripcion>
     </elemento>
     <elemento> 
         <id>6</id>
         <nombre>Flor morada</nombre>
-        <foto>./assets/natural-fotos/florMorada.jpg</foto>
+        <foto>natural-fotos/florMorada.jpg</foto>
         <pie>Todos los colores los podriamos encontrar</pie>
         <descripcion>Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium odio dolor minima explicabo nam? Eius, sed. Harum, libero rem! Natus alias tempore saepe.</descripcion>
     </elemento>
     <elemento>
         <id>7</id>
         <nombre>Hoja verde</nombre>
-        <foto>./assets/natural-fotos/hojaVerde.jpg</foto>
+        <foto>natural-fotos/hojaVerde.jpg</foto>
         <pie>el verde más puro</pie>
         <descripcion>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam saepe nulla omnis laborum tempora consequatur iste, cum ex?</descripcion>
     </elemento>
     <elemento>
         <id>8</id>
         <nombre>Rocio</nombre>
-        <foto>./assets/natural-fotos/rocio.jpg</foto>
+        <foto>natural-fotos/rocio.jpg</foto>
         <pie>Atraidos por el agua</pie>
         <descripcion>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima accusantium iste magnam, aliquid expedita tenetur.</descripcion>
     </elemento>
     <elemento>
         <id>9</id>
         <nombre>Telarana</nombre>
-        <foto>./assets/natural-fotos/telarana.jpg</foto>
+        <foto>natural-fotos/telarana.jpg</foto>
         <pie>¿fragilidad o resistencia?</pie>
         <descripcion>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum doloremque ipsa obcaecati illo quo sunt eum ullam omnis error repellat.</descripcion>
     </elemento>
     <elemento>
         <id>10</id>
         <nombre>Flores azules</nombre>
-        <foto>./assets/natural-fotos/floresAzules.JPG</foto>
+        <foto>natural-fotos/floresAzules.JPG</foto>
         <pie>felicidad rodeada de colores</pie>
         <descripcion>Lorem ipsum dolor sit, amet consectetur adipisicing.</descripcion>
     </elemento>
     <elemento>
         <id>11</id>
         <nombre>Musgo sobre árbol</nombre>
-        <foto>./assets/natural-fotos/musgo.JPG</foto>
+        <foto>natural-fotos/musgo.JPG</foto>
         <pie>vida en sitios insospechados</pie>
         <descripcion>El musgo es uno de los simbolos de aire puro y ambiente saludable más claros que podemos
         encontrarnos.</descripcion>
@@ -88,56 +88,56 @@
     <elemento>
         <id>12</id>
         <nombre>Mar</nombre>
-        <foto>./assets/natural-fotos/mar.jpg</foto>
+        <foto>natural-fotos/mar.jpg</foto>
         <pie>surcando el mar</pie>
         <descripcion>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Blanditiis sit, vitae nobis consequuntur aliquam natus vel quasi ad, ea tenetur, voluptas labore nulla.</descripcion>
     </elemento>
     <elemento>
         <id>13</id>
         <nombre>Rio Tinto</nombre>
-        <foto>./assets/natural-fotos/rioTinto.jpg</foto>
+        <foto>natural-fotos/rioTinto.jpg</foto>
         <pie>río costero del sur de España </pie>
         <descripcion>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam voluptas impedit quod commodi quae doloremque atque corrupti maxime!</descripcion>
     </elemento>
     <elemento>
         <id>14</id>
         <nombre>Muelle</nombre>
-        <foto>./assets/natural-fotos/muelle.JPG</foto>
+        <foto>natural-fotos/muelle.JPG</foto>
         <pie>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit, fugit.</pie>
         <descripcion>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, ratione voluptatum. Incidunt iusto necessitatibus maiores non veritatis?</descripcion>
     </elemento>
     <elemento>
         <id>15</id>
         <nombre>Playa</nombre>
-        <foto>./assets/natural-fotos/playa.JPG</foto>
+        <foto>natural-fotos/playa.JPG</foto>
         <pie>Lorem ipsum dolor sit amet consectetur, pariatur.</pie>
         <descripcion>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad nulla illo doloribus libero! Aut eaque adipisci alias sunt dolores voluptatibus vero enim.</descripcion>
     </elemento>
     <elemento>
         <id>16</id>
         <nombre>Playa con gente</nombre>
-        <foto>./assets/natural-fotos/playaGente.JPG</foto>
+        <foto>natural-fotos/playaGente.JPG</foto>
         <pie>Lorem ipsum dolor sit amet consectetur adipisicing.</pie>
         <descripcion>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolor ab atque facilis, rem, odit consectetur illo molestiae nisi reiciendis voluptatum minima eos iste aliquam.</descripcion>
     </elemento>
     <elemento>
         <id>17</id>
         <nombre>Gaviota volando</nombre>
-        <foto>./assets/natural-fotos/gaviota.jpg</foto>
+        <foto>natural-fotos/gaviota.jpg</foto>
         <pie>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</pie>
         <descripcion>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores, officiis enim maiores nam quae! Cum doloribus dicta asperiores eum.</descripcion>
     </elemento>
     <elemento>
         <id>18</id>
         <nombre>Cielo nublado</nombre>
-        <foto>./assets/natural-fotos/cielo-niebla.JPG</foto>
+        <foto>natural-fotos/cielo-niebla.JPG</foto>
         <pie>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perferendis, unde!</pie>
         <descripcion>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iure earum nisi maiores quos quam aut debitis dignissimos. Iste!</descripcion>
     </elemento>
     <elemento>
         <id>19</id>
         <nombre>Niebla</nombre>
-        <foto>./assets/natural-fotos/niebla.jpg</foto>
+        <foto>natural-fotos/niebla.jpg</foto>
         <pie>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore.</pie>
         <descripcion>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad corrupti aut nobis in numquam vel, provident harum quaerat natus molestias, fugiat, dolores voluptatem dolore!</descripcion>
     </elemento>
