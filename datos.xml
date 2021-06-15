@@ -3,7 +3,7 @@
     <elemento>
         <id>0</id>
         <nombre>Flor roja</nombre>
-        <foto>./assets/natural-fotos/flor.jpg</foto>
+        <foto>natural-fotos/flor.jpg</foto>
         <pie>Enfocando lo que solemos ignorar</pie>
         <descripcion>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi autem, dignissimos hic quasi numquam placeat animi?</descripcion>
     </elemento>
