@@ -62,6 +62,7 @@
         <foto>natural-fotos/hojaVerde.jpg</foto>
         <pie>el verde más puro</pie>
         <descripcion>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam saepe nulla omnis laborum tempora consequatur iste, cum ex?</descripcion>
+        <clase>flores</clase>
     </elemento>
     <elemento>
         <id>8</id>
@@ -69,6 +70,7 @@
         <foto>natural-fotos/rocio.jpg</foto>
         <pie>Atraidos por el agua</pie>
         <descripcion>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima accusantium iste magnam, aliquid expedita tenetur.</descripcion>
+        <clase>arboles</clase>
     </elemento>
     <elemento>
         <id>9</id>
@@ -109,6 +111,7 @@
         <foto>natural-fotos/rioTinto.jpg</foto>
         <pie>río costero del sur de España </pie>
         <descripcion>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam voluptas impedit quod commodi quae doloremque atque corrupti maxime!</descripcion>
+        <clase>arboles</clase>
     </elemento>
     <elemento>
         <id>14</id>
