@@ -12,7 +12,7 @@
         <id>1</id>
         <nombre>Bicho</nombre>
         <foto>natural-fotos/bicho.jpg</foto>
-        <pie>Fijandonos en los detalles</pie>
+        <pie>Fijándonos en los detalles</pie>
         <descripcion>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque perferendis, dolores quidem fugit quas rerum.</descripcion>
         <clase>flores</clase>
     </elemento>
@@ -60,7 +60,7 @@
         <id>7</id>
         <nombre>Hoja verde</nombre>
         <foto>natural-fotos/hojaVerde.jpg</foto>
-        <pie>el verde más puro</pie>
+        <pie>El verde más puro</pie>
         <descripcion>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam saepe nulla omnis laborum tempora consequatur iste, cum ex?</descripcion>
         <clase>flores</clase>
     </elemento>
@@ -76,7 +76,7 @@
         <id>9</id>
         <nombre>Telaraña</nombre>
         <foto>natural-fotos/telarana.jpg</foto>
-        <pie>¿fragilidad o resistencia?</pie>
+        <pie>¿Fragilidad o resistencia?</pie>
         <descripcion>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum doloremque ipsa obcaecati illo quo sunt eum ullam omnis error repellat.</descripcion>
         <clase>arboles</clase>
     </elemento>
@@ -84,7 +84,7 @@
         <id>10</id>
         <nombre>Flores azules</nombre>
         <foto>natural-fotos/floresAzules.JPG</foto>
-        <pie>felicidad rodeada de colores</pie>
+        <pie>Felicidad rodeada de colores</pie>
         <descripcion>Lorem ipsum dolor sit, amet consectetur adipisicing.</descripcion>
         <clase>flores</clase>
     </elemento>
@@ -92,7 +92,7 @@
         <id>11</id>
         <nombre>Musgo sobre árbol</nombre>
         <foto>natural-fotos/musgo.JPG</foto>
-        <pie>vida en sitios insospechados</pie>
+        <pie>Vida en sitios insospechados</pie>
         <descripcion>El musgo es uno de los simbolos de aire puro y ambiente saludable más claros que podemos
         encontrarnos.</descripcion>
         <clase>arboles</clase>
@@ -101,7 +101,7 @@
         <id>12</id>
         <nombre>Mar</nombre>
         <foto>natural-fotos/mar.jpg</foto>
-        <pie>surcando el mar</pie>
+        <pie>Surcando el mar</pie>
         <descripcion>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Blanditiis sit, vitae nobis consequuntur aliquam natus vel quasi ad, ea tenetur, voluptas labore nulla.</descripcion>
         <clase>costa</clase>
     </elemento>
@@ -141,7 +141,7 @@
         <id>17</id>
         <nombre>Gaviota volando</nombre>
         <foto>natural-fotos/gaviota.jpg</foto>
-        <pie>pies, ¿de qué os quiero si tengo alas para volar?</pie>
+        <pie>Pies, ¿de qué os quiero si tengo alas para volar?</pie>
         <descripcion>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores, officiis enim maiores nam quae! Cum doloribus dicta asperiores eum.</descripcion>
         <clase>costa</clase>
     </elemento>
