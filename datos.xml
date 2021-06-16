@@ -161,4 +161,12 @@
         <descripcion>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad corrupti aut nobis in numquam vel, provident harum quaerat natus molestias, fugiat, dolores voluptatem dolore!</descripcion>
         <clase>arboles</clase>
     </elemento>
+    <elemento>
+        <id>20</id>
+        <nombre>Ventana</nombre>
+        <foto>natural-fotos/ventana.JPG</foto>
+        <pie>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore.</pie>
+        <descripcion>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad corrupti aut nobis in numquam vel, provident harum quaerat natus molestias, fugiat, dolores voluptatem dolore!</descripcion>
+        <clase>arboles</clase>
+    </elemento>
 </orla>
