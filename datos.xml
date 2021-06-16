@@ -109,7 +109,7 @@
         <id>13</id>
         <nombre>Rio Tinto</nombre>
         <foto>natural-fotos/rioTinto.jpg</foto>
-        <pie>río costero del sur de España </pie>
+        <pie>Ruta por las minas del Río Tinto </pie>
         <descripcion>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam voluptas impedit quod commodi quae doloremque atque corrupti maxime!</descripcion>
         <clase>arboles</clase>
     </elemento>
@@ -117,7 +117,7 @@
         <id>14</id>
         <nombre>Muelle</nombre>
         <foto>natural-fotos/muelle.JPG</foto>
-        <pie>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit, fugit.</pie>
+        <pie>Embarcación pesquera</pie>
         <descripcion>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, ratione voluptatum. Incidunt iusto necessitatibus maiores non veritatis?</descripcion>
         <clase>costa</clase>
     </elemento>
@@ -125,7 +125,7 @@
         <id>15</id>
         <nombre>Playa</nombre>
         <foto>natural-fotos/playa.JPG</foto>
-        <pie>Lorem ipsum dolor sit amet consectetur, pariatur.</pie>
+        <pie>Disfrutando de la playa</pie>
         <descripcion>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad nulla illo doloribus libero! Aut eaque adipisci alias sunt dolores voluptatibus vero enim.</descripcion>
         <clase>costa</clase>
     </elemento>
@@ -133,7 +133,7 @@
         <id>16</id>
         <nombre>Playa con gente</nombre>
         <foto>natural-fotos/playaGente.JPG</foto>
-        <pie>Lorem ipsum dolor sit amet consectetur adipisicing.</pie>
+        <pie>Los rayos del sol bañan la playa</pie>
         <descripcion>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolor ab atque facilis, rem, odit consectetur illo molestiae nisi reiciendis voluptatum minima eos iste aliquam.</descripcion>
         <clase>costa</clase>
     </elemento>
@@ -141,7 +141,7 @@
         <id>17</id>
         <nombre>Gaviota volando</nombre>
         <foto>natural-fotos/gaviota.jpg</foto>
-        <pie>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</pie>
+        <pie>pies, ¿de qué os quiero si tengo alas para volar?</pie>
         <descripcion>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium asperiores, officiis enim maiores nam quae! Cum doloribus dicta asperiores eum.</descripcion>
         <clase>costa</clase>
     </elemento>
@@ -149,7 +149,7 @@
         <id>18</id>
         <nombre>Cielo nublado</nombre>
         <foto>natural-fotos/cielo-niebla.JPG</foto>
-        <pie>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perferendis, unde!</pie>
+        <pie>Árboles entre las nubes</pie>
         <descripcion>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iure earum nisi maiores quos quam aut debitis dignissimos. Iste!</descripcion>
         <clase>arboles</clase>
     </elemento>
@@ -157,7 +157,7 @@
         <id>19</id>
         <nombre>Niebla</nombre>
         <foto>natural-fotos/niebla.jpg</foto>
-        <pie>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore.</pie>
+        <pie>La niebla toma su protagonismo</pie>
         <descripcion>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad corrupti aut nobis in numquam vel, provident harum quaerat natus molestias, fugiat, dolores voluptatem dolore!</descripcion>
         <clase>arboles</clase>
     </elemento>
@@ -165,7 +165,7 @@
         <id>20</id>
         <nombre>Ventana</nombre>
         <foto>natural-fotos/ventana.JPG</foto>
-        <pie>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore.</pie>
+        <pie>Colores a través de la ventana</pie>
         <descripcion>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad corrupti aut nobis in numquam vel, provident harum quaerat natus molestias, fugiat, dolores voluptatem dolore!</descripcion>
         <clase>arboles</clase>
     </elemento>
