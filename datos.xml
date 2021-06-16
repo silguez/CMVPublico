@@ -12,7 +12,7 @@
         <id>1</id>
         <nombre>Bicho</nombre>
         <foto>natural-fotos/bicho.jpg</foto>
-        <pie>Fijandonos en los descripcions</pie>
+        <pie>Fijandonos en los detalles</pie>
         <descripcion>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque perferendis, dolores quidem fugit quas rerum.</descripcion>
         <clase>flores</clase>
     </elemento>
