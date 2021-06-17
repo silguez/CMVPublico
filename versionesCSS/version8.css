@@ -12,6 +12,7 @@ video::cue(b) {
 }
 
 #videoAudio, h1{
+    width: 50%;
     text-align:center;
     margin: 0 auto;
     padding: 2%;
